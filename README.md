@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alfred Coloma @SrColoma</h1>
 <h3 align="center">A passionate video game developer from ecuador</h3>
 
-🥜I like **almonds**, **coffee** and I am **cold team**
-🌱I am **constantly learning** self-taught
-🏠I am living in **Guayaquil, Ecuador** (temporarily)
+-🥜I like **almonds**, **coffee** and I am **cold team**
+-🌱I am **constantly learning** self-taught
+-🏠I am living in **Guayaquil, Ecuador** (temporarily)
 
 --- 
 
