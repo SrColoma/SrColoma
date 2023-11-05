@@ -7,11 +7,12 @@
 
 --- 
 
-- [Github.com/SrColoma](https://github.com/SrColoma){:target="_blank"} ⬅️are you here
-- [Youtube.com/DevAndChill](https://www.youtube.com/DevAndChill){:target="_blank"} 📹Here I teach **godot engine** and game development in general
-- [SrColoma.itch.io](https://srcoloma.itch.io){:target="_blank"} 🎮 **my games**
-- [SrColoma / me](https://srcoloma.github.io/me/){:target="_blank"} 📜my **resume**
-- [linkedin.com/in/Srcoloma](https://www.linkedin.com/in/Srcoloma/){:target="_blank"}
+- <a href="https://github.com/SrColoma" target="_blank">Github.com/SrColoma</a> ⬅️are you here
+- <a href="https://www.youtube.com/DevAndChill" target="_blank">Youtube.com/DevAndChill</a> 📹Here I teach **godot engine** and game development in general
+- <a href="https://srcoloma.itch.io" target="_blank">SrColoma.itch.io</a> 🎮 **my games**
+- <a href="https://srcoloma.github.io/me/" target="_blank">SrColoma / me</a> 📜my **resume**
+- <a href="https://www.linkedin.com/in/Srcoloma" target="_blank">linkedin.com/in/Srcoloma</a>
+
 
 ---
 
